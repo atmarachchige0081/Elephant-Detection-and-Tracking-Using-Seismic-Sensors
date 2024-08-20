@@ -1,1 +1,2 @@
-## Research based o detection and Locating the elephants using vibration Sensors
+## Research based on detection and Locating the elephants using vibration Sensors
+The project is currently in progress ...
